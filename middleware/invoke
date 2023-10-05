@@ -1,0 +1,3 @@
+#!/bin/sh
+
+/usr/bin/invoke_app -t stiritup -C "start_jupyter -A -t @tool main.ipynb" -u anaconda-6
